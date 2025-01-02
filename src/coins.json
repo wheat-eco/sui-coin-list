@@ -266,5 +266,15 @@
         "icon_url": "",
         "project_url": "https://suipad.xyz/",
         "source": "native"
+    },
+    {
+  "name": "WheatChain",
+  "description": "WheatChain (SWHIT) is a groundbreaking multi-chain digital asset protocol revolutionizing value creation and distribution in Web3.",    
+  "symbol": "SWHIT",
+  "coin_type": "0x4eaaef2c74b1793e1c63e5f3843087921aebc815a36e9993958e199885c327b2::swhit::SWHIT",
+  "decimals": 9,
+  "icon_url": "https://raw.githubusercontent.com/wheat-eco/Aptos-Tokens/refs/heads/main/logos/SWHIT.png",
+  "project_url": "https://www.wheatchain.xyz/",
+  "source": "native"
     }
 ]
